@@ -1,0 +1,50 @@
+# Arquivos compilados
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Arquivos de instalação
+*.egg-info/
+.installed.cfg
+
+# Logs
+*.log
+
+# Arquivos de teste
+tests/
+test_*.py
+*.test
+
+# Arquivos de build
+build/
+dist/
+
+# Arquivos de ambiente
+.env
+.venv/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Arquivos de IDE
+.vscode/
+.idea/
+
+# Arquivos temporários
+*.tmp
+*.temp
+
+# Arquivos de versão
+*.pyc
+*.pyo
+
+# Arquivos de compilação
+*.exe
+*.dll
+*.so
+
+# Arquivos específicos do projeto
+main.py
+config.py
+settings.ini
