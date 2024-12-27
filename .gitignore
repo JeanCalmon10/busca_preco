@@ -45,6 +45,6 @@ venv.bak/
 *.so
 
 # Arquivos específicos do projeto
-main.py
+
 config.py
 settings.ini
